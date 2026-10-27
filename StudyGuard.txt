@@ -1,0 +1,92 @@
+! #################################################################
+! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
+! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
+! LAST UPDATED: 2026-10-27
+! #################################################################
+
+! === [CORE USER REQUESTS] ===
+
+! --- Roblox Ecosystem ---
+||roblox.com^
+||rbxcdn.com^
+||roblox.plus^
+
+! --- Minecraft Authentication & Web Ecosystem ---
+||minecraft.net^
+||mojang.com^
+||minecraftservices.com^
+
+! --- Block Blast Games ---
+||block-blast.io^
+||blockblast.org^
+||blockblastonline.com^
+
+! --- Geometry Dash Games & Developers ---
+||geometrylitepc.net^
+||geometrydash.com^
+||geometrydash-pc.com^
+||geometrydashunblocked.co.uk^
+||robtopgames.com^
+
+! --- Subway Surfers Web Clones ---
+||subwaysurferspc.io^
+||subwayonline.io^
+
+! --- Arcade & Free Game Portals ---
+||yoplay.io^
+||ofree.io^
+||gamezhero.com^
+
+! --- Interactive Toys & Google Easter Eggs ---
+||mrdoob.com^
+||elgoog.im^
+
+
+! === [EXPANDED GAME PORTALS & HUBS] ===
+
+! --- Modern HTML5 Hubs (Poki & CrazyGames networks) ---
+||poki.com^
+||poki.at^
+||poki.be^
+||poki.bg^
+||poki.ch^
+||crazygames.com^
+||crazygames.co.uk^
+
+! --- Classic & Pop-Culture Web Gaming Networks ---
+||coolmathgames.com^
+||coolmath.com^
+||coolmath4kids.com^
+||armorgames.com^
+||newgrounds.com^
+||kongregate.com^
+||miniplay.com^
+||silvergames.com^
+||y8.com^
+
+! --- IO Games (Multiplayer Arena Distractions) ---
+||slither.io^
+||agar.io^
+||paper.io^
+||bloxd.io^
+||hole.io^
+||diep.io^
+
+
+! === [SCHOOL BYPASSES, CLOUD EMULATORS & PROXIES] ===
+
+! --- Cloud Emulators (Play mobile apps via web browser) ---
+||now.gg^
+||easyfun.gg^
+
+! --- Common Open-Source Github Game Pages ---
+||3kh0.github.io^
+||3kh0.net^
+||sz-games.github.io^
+||emulatoros.github.io^
+
+! --- Popular Cloud Web Proxies (Bypasses web filters) ---
+||rammerhead.org^
+||hyperbeam.com^
+||surfly.com^
+||neverinstall.dev^
