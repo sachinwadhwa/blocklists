@@ -4,163 +4,169 @@
 ! LAST UPDATED: 2026-10-30
 ! #################################################################
 
-! --- Browser Game Search Portals ---
-||searchgames.io^
+! ==========================================
+! CLOUD EMULATORS, PROXIES & SCHOOL BYPASSES
+! ==========================================
+! --- Cloud Emulators ---
+||easyfun.gg^
+||now.gg^
 
-! Rolling Ball Games
-||goingballs.com^
-||rollingsky.com^
-||slopeextra.com^
+! --- Cloud Web Proxies ---
+||hyperbeam.com^
+||neverinstall.dev^
+||rammerhead.org^
+||surfly.com^
 
-! Tunnel Runner Games
-||tunnelrush.app^
-||color-tunnel.com^
-||rollyvortex.io^
+! --- GitHub Pages Game Repositories ---
+||3kh0.github.io^
+||3kh0.net^
+||emulatoros.github.io^
+||sz-games.github.io^
+||titansaz.github.io^
 
-! Endless Runner Games
-||run3.io^
-||templerun.com^
 
-! Racing and Reflex Games
-||driftboss.io^
-||snowrider3d.com^
-
+! ==========================================
+! CONSOLE & METAVERSE SANDBOX ECOSYSTEMS
+! ==========================================
+! --- Minecraft Web Ecosystem ---
+||minecraft.net^
+||minecraftservices.com^
+||mojang.com^
 
 ! --- Roblox Ecosystem ---
-||roblox.com^
 ||rbxcdn.com^
+||roblox.com^
 ||roblox.plus^
 
-! --- Minecraft Authentication & Web Ecosystem ---
-||minecraft.net^
-||mojang.com^
-||minecraftservices.com^
 
+! ==========================================
+! GEOMETRY DASH ClONES & RHYTHM ECOSYSTEM
+! ==========================================
+! --- Official Developers & Wikis ---
+||geometrydash.com^
+||geometrydash.wiki.gg^
+||robtopgames.com^
+
+! --- Geometry Dash Lite Web Mirrors ---
+||gamegeometrydash.com^
+||geodash.io^
+||geodash.org^
+||geodashlite.org^
+||geometry-dash-free.com^
+||geometry-dash-lite.io^
+||geometry-dash-lite.org^
+||geometrydash-lite.com^
+||geometrydash-pc.com^
+||geometrydash.gg^
+||geometrydashlite.com^
+||geometrydashlite.io^
+||geometrydashlite.one^
+||geometrydashlite.us^
+||geometrydashlite3d.com^
+||geometrydashonline.io^
+||geometrydashpc.net^
+||geometrydashpc.online^
+||geometrydashunblocked.co.uk^
+||geometrylite.github.io^
+||://us.com^
+||geometrylitepc.com^
+||geometrylitepc.net^
+||geometrylite3d.com^
+
+! --- Similar Rhythm, Dash & Reflex Variants ---
+||101games.io^
+||dashvibes.io^
+||geometry-dash.co^
+||geometrydashs.io^
+||tap-tapshots.com^
+
+
+! ==========================================
+! ARCADE & HUB GAME PORTALS
+! ==========================================
+! --- Modern HTML5 Hubs (Poki & CrazyGames Networks) ---
+||crazygames.co.uk^
+||crazygames.com^
+||poki.at^
+||poki.be^
+||poki.bg^
+||poki.ch^
+||poki.com^
+
+! --- Classic Web Gaming Networks ---
+||armorgames.com^
+||coolmath.com^
+||coolmath4kids.com^
+||coolmathgames.com^
+||gamezhero.com^
+||kongregate.com^
+||miniplay.com^
+||newgrounds.com^
+||ofree.io^
+||silvergames.com^
+||y8.com^
+||yoplay.io^
+
+! --- Multi-Genre & Unblocked Portals ---
+||gamepix.com^
+||searchgames.io^
+||ubgames.net^
+||unblocked.ee^
+
+
+! ==========================================
+! SPECIFIC CASUAL & ENDLESS GAME GENRES
+! ==========================================
 ! --- Block Blast Games ---
 ||block-blast.io^
 ||blockblast.org^
 ||blockblastonline.com^
 
-! --- Geometry Dash Games & Developers ---
-||geometrylitepc.net^
-||geometrydash.com^
-||geometrydash-pc.com^
-||geometrydashunblocked.co.uk^
-||robtopgames.com^
-||geometrydashs.io^
-
-! --- Subway Surfers Web Clones ---
-||subwaysurferspc.io^
+! --- Endless Runner Games ---
+||run3.io^
 ||subwayonline.io^
+||subwaysurferspc.io^
+||templerun.com^
 
-! --- Arcade & Free Game Portals ---
-||yoplay.io^
-||ofree.io^
-||gamezhero.com^
-
-! --- Interactive Toys & Google Easter Eggs ---
-||mrdoob.com^
-||elgoog.im^
-
-
-! === [EXPANDED GAME PORTALS & HUBS] ===
-
-! --- Modern HTML5 Hubs (Poki & CrazyGames networks) ---
-||poki.com^
-||poki.at^
-||poki.be^
-||poki.bg^
-||poki.ch^
-||crazygames.com^
-||crazygames.co.uk^
-
-! --- Classic & Pop-Culture Web Gaming Networks ---
-||coolmathgames.com^
-||coolmath.com^
-||coolmath4kids.com^
-||armorgames.com^
-||newgrounds.com^
-||kongregate.com^
-||miniplay.com^
-||silvergames.com^
-||y8.com^
-
-! --- IO Games (Multiplayer Arena Distractions) ---
-||slither.io^
+! --- IO Games (Multiplayer Arena) ---
 ||agar.io^
-||paper.io^
 ||bloxd.io^
-||hole.io^
 ||diep.io^
+||hole.io^
+||iogames.space^
+||paper.io^
+||slither.io^
+||voxiom.io^
 
+! --- Racing, Rolling & Reflex Games ---
+||driftboss.io^
+||goingballs.com^
+||rollingsky.com^
+||snowrider3d.com^
 
-! === [SCHOOL BYPASSES, CLOUD EMULATORS & PROXIES] ===
-
-! --- Cloud Emulators (Play mobile apps via web browser) ---
-||now.gg^
-||easyfun.gg^
-
-! --- Common Open-Source Github Game Pages ---
-||3kh0.github.io^
-||3kh0.net^
-||sz-games.github.io^
-||emulatoros.github.io^
-
-! --- Popular Cloud Web Proxies (Bypasses web filters) ---
-||rammerhead.org^
-||hyperbeam.com^
-||surfly.com^
-||neverinstall.dev^
-
-! --- Slope 3 & Slope Game Websites ---
-||slope3.com^
-||slope3.me^
-||slopegame.net^
-||slope911.com^
+! --- Slope 3 & Slope Game Footprints ---
+||playslope.io^
 ||slope-run.io^
 ||slope.ee^
-||playslope.io^
+||slope3.com^
+||slope3.me^
+||slope911.com^
+||slopeextra.com^
+||slopegame.net^
 ||slopesunblocked.io^
 
-! --- 3D Ball & Tunnel Games ---
+! --- Tunnel Runner Games ---
+||color-tunnel.com^
+||rollyvortex.io^
 ||tunnelrush.app^
 
-! ==========================================
-! Geometry Dash & Rhythm Platformer Games
-! ==========================================
-
-! Geometry Dash Lite clones and mirrors
-||geodashlite.org^
-||geometrylite.github.io^
-||geometrylitepc.com^
-||geometrydashlite.com^
-||geometrydashlite.us^
-||geometrydash-lite.io^
-||geometrydashlite.one^
-||geometrylite.us.com^
-||geometrydash.gg^
-||geodash.org^
-||gamegeometrydash.com^
-
-! Similar rhythm and dash games
-||101games.io^
-||tap-tapshots.com^
 
 ! ==========================================
-! Browser Game Portals
+! INTERACTIVE TOYS, GOOGLE EGGS & AD NETWORKS
 ! ==========================================
-
-||searchgames.io^
-
-! Geometry Dash mirrors
-||geometrydashlite.one^
-||geometrydash-lite.io^
-||geometrylite.us.com^
-||geometrylitepc.net^
-||geodash.org^
-||geometrydash.gg^
-||gamegeometrydash.com^
-
-! Unblocked game portals
-||unblocked.ee^
-||ubgames.net^
+||doodles.google^
+||elgoog.im^
+||://appspot.com^
+||://google.com^
+||in-gameadvertising.com^
+||mrdoob.com^
