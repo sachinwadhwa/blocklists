@@ -68,7 +68,6 @@
 ||geometrydashpc.online^
 ||geometrydashunblocked.co.uk^
 ||geometrylite.github.io^
-||://us.com^
 ||geometrylitepc.com^
 ||geometrylitepc.net^
 ||geometrylite3d.com^
@@ -166,7 +165,5 @@
 ! ==========================================
 ||doodles.google^
 ||elgoog.im^
-||://appspot.com^
-||://google.com^
 ||in-gameadvertising.com^
 ||mrdoob.com^
