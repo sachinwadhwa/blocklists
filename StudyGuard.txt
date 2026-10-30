@@ -47,6 +47,7 @@
 ||geometrydash-pc.com^
 ||geometrydashunblocked.co.uk^
 ||robtopgames.com^
+||geometrydashs.io^
 
 ! --- Subway Surfers Web Clones ---
 ||subwaysurferspc.io^
@@ -123,3 +124,43 @@
 
 ! --- 3D Ball & Tunnel Games ---
 ||tunnelrush.app^
+
+! ==========================================
+! Geometry Dash & Rhythm Platformer Games
+! ==========================================
+
+! Geometry Dash Lite clones and mirrors
+||geodashlite.org^
+||geometrylite.github.io^
+||geometrylitepc.com^
+||geometrydashlite.com^
+||geometrydashlite.us^
+||geometrydash-lite.io^
+||geometrydashlite.one^
+||geometrylite.us.com^
+||geometrydash.gg^
+||geodash.org^
+||gamegeometrydash.com^
+
+! Similar rhythm and dash games
+||101games.io^
+||tap-tapshots.com^
+
+! ==========================================
+! Browser Game Portals
+! ==========================================
+
+||searchgames.io^
+
+! Geometry Dash mirrors
+||geometrydashlite.one^
+||geometrydash-lite.io^
+||geometrylite.us.com^
+||geometrylitepc.net^
+||geodash.org^
+||geometrydash.gg^
+||gamegeometrydash.com^
+
+! Unblocked game portals
+||unblocked.ee^
+||ubgames.net^
