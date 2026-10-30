@@ -1,10 +1,30 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-10-27
+! LAST UPDATED: 2026-10-30
 ! #################################################################
 
-! === [CORE USER REQUESTS] ===
+! --- Browser Game Search Portals ---
+||searchgames.io^
+
+! Rolling Ball Games
+||goingballs.com^
+||rollingsky.com^
+||slopeextra.com^
+
+! Tunnel Runner Games
+||tunnelrush.app^
+||color-tunnel.com^
+||rollyvortex.io^
+
+! Endless Runner Games
+||run3.io^
+||templerun.com^
+
+! Racing and Reflex Games
+||driftboss.io^
+||snowrider3d.com^
+
 
 ! --- Roblox Ecosystem ---
 ||roblox.com^
@@ -90,3 +110,16 @@
 ||hyperbeam.com^
 ||surfly.com^
 ||neverinstall.dev^
+
+! --- Slope 3 & Slope Game Websites ---
+||slope3.com^
+||slope3.me^
+||slopegame.net^
+||slope911.com^
+||slope-run.io^
+||slope.ee^
+||playslope.io^
+||slopesunblocked.io^
+
+! --- 3D Ball & Tunnel Games ---
+||tunnelrush.app^
