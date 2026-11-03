@@ -1,7 +1,7 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-10-30
+! LAST UPDATED: 2026-11-03
 ! #################################################################
 
 ! ==========================================
@@ -168,3 +168,4 @@
 ||in-gameadvertising.com^
 ||mrdoob.com^
 ||run3.live^
+||flappybird.io^
