@@ -170,5 +170,4 @@
 ||mrdoob.com^
 ||run3.live^
 ||flappybird.io^
-||ubg010.gitlab.io^
-||ubg004.gitlab.io^
+||ubg*.gitlab.io^
