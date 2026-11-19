@@ -172,3 +172,4 @@
 ||flappybird.io^
 ||ubg*.gitlab.io^
 ||ubg*.pages.dev^
+||eaglercraft.com^
