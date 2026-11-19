@@ -171,3 +171,4 @@
 ||run3.live^
 ||flappybird.io^
 ||ubg*.gitlab.io^
+||ubg*.pages.dev^
