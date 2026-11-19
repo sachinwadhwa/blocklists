@@ -1,34 +1,59 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-11-03
+! LAST UPDATED: 2026-11-19
 ! #################################################################
+
 
 ! ==========================================
 ! CLOUD EMULATORS, PROXIES & SCHOOL BYPASSES
 ! ==========================================
-! --- Cloud Emulators ---
+! --- Cloud Emulators & Virtual Browsers ---
+||browserling.com^
 ||easyfun.gg^
 ||now.gg^
+||powdur.com^
 
-! --- Cloud Web Proxies ---
+! --- Cloud Web Proxies & Bypass Frameworks ---
+||croxyproxy.com^
+||croxyproxy.rocks^
+||holyubofficial.net^
 ||hyperbeam.com^
+||interstellar-proxy.pages.dev^
+||nebula.my^
 ||neverinstall.dev^
+||proxyium.com^
 ||rammerhead.org^
 ||surfly.com^
+||ultraviolet-node.com^
+||womginx.arph.org^
 
-! --- GitHub Pages Game Repositories ---
+! --- GitHub, GitLab & Cloudflare Pages Game Mirrors ---
 ||3kh0.github.io^
 ||3kh0.net^
+||classroom-6x.github.io^
+||classroom6x.gitlab.io^
 ||emulatoros.github.io^
 ||sz-games.github.io^
 ||titansaz.github.io^
+||ubg*.github.io^
+||ubg*.gitlab.com^
+||ubg*.gitlab.io^
+||ubg*.pages.dev^
+||ubg*.vercel.app^
+||unblocked-games*.github.io^
+||unblocked-games*.gitlab.io^
+||unblocked-games*.pages.dev^
 
 
 ! ==========================================
 ! CONSOLE & METAVERSE SANDBOX ECOSYSTEMS
 ! ==========================================
-! --- Minecraft Web Ecosystem ---
+! --- Minecraft Web & Eaglercraft Ecosystem ---
+||classic.minecraft.net^
+||eaglercraft.com^
+||eaglercraft.ru^
+||eaglercraftx.pages.dev^
 ||minecraft.net^
 ||minecraftservices.com^
 ||mojang.com^
@@ -40,44 +65,28 @@
 
 
 ! ==========================================
-! GEOMETRY DASH ClONES & RHYTHM ECOSYSTEM
+! GEOMETRY DASH CLONES & RHYTHM ECOSYSTEM
 ! ==========================================
 ! --- Official Developers & Wikis ---
 ||geometrydash.com^
 ||geometrydash.wiki.gg^
 ||robtopgames.com^
 
-! --- Geometry Dash Lite Web Mirrors ---
+! --- Geometry Dash Lite Web Mirrors & Wildcards ---
+||*geometry-dash*^
+||*geometrydash*^
+||*geometrylite*^
 ||gamegeometrydash.com^
 ||geodash.io^
 ||geodash.org^
 ||geodashlite.org^
-||geometry-dash-free.com^
-||geometry-dash-lite.io^
-||geometrydash-lite.io^
-||geometry-dash-lite.org^
-||geometrydash-lite.com^
-||geometrydash-pc.com^
-||geometrydash.gg^
-||geometrydashlite.com^
-||geometrydashlite.io^
-||geometrydashlite.one^
-||geometrydashlite.us^
-||geometrydashlite3d.com^
-||geometrydashonline.io^
-||geometrydashpc.net^
-||geometrydashpc.online^
-||geometrydashunblocked.co.uk^
-||geometrylite.github.io^
-||geometrylitepc.com^
-||geometrylitepc.net^
-||geometrylite3d.com^
 
 ! --- Similar Rhythm, Dash & Reflex Variants ---
 ||101games.io^
 ||dashvibes.io^
-||geometry-dash.co^
-||geometrydashs.io^
+||fnf.kdata1.com^
+||fridaynightfunkin.gg^
+||osu.ppy.sh^
 ||tap-tapshots.com^
 
 
@@ -85,79 +94,126 @@
 ! ARCADE & HUB GAME PORTALS
 ! ==========================================
 ! --- Modern HTML5 Hubs (Poki & CrazyGames Networks) ---
-||crazygames.co.uk^
-||crazygames.com^
-||poki.at^
-||poki.be^
-||poki.bg^
-||poki.ch^
-||poki.com^
+||crazygames.*^
+||lagged.com^
+||poki.*^
+||snokido.com^
 
 ! --- Classic Web Gaming Networks ---
+||addictinggames.com^
+||agame.com^
 ||armorgames.com^
 ||coolmath.com^
 ||coolmath4kids.com^
 ||coolmathgames.com^
+||friv.com^
 ||gamezhero.com^
+||hoodamath.com^
+||kizi.com^
 ||kongregate.com^
+||miniclip.com^
 ||miniplay.com^
 ||newgrounds.com^
+||nitrome.com^
+||notdoppler.com^
 ||ofree.io^
 ||silvergames.com^
 ||y8.com^
 ||yoplay.io^
 
 ! --- Multi-Genre & Unblocked Portals ---
+||*unblockedgames*^
+||classroom6x.org^
+||freeze-nova.com^
+||freezenova.com^
 ||gamepix.com^
+||hoodamath.com^
+||mathplayground.com^
 ||searchgames.io^
+||totallyscience.co^
+||tyrone-unblocked-games.com^
+||ubg100.github.io^
+||ubg365.com^
+||ubg98.github.io^
 ||ubgames.net^
 ||unblocked.ee^
+||unblockedgames66.com^
+||unblockedgames76.com^
+||unblockedgamespod.com^
+||wtf-games.com^
 
 
 ! ==========================================
 ! SPECIFIC CASUAL & ENDLESS GAME GENRES
 ! ==========================================
-! --- Block Blast Games ---
+! --- Block & Puzzle Games ---
+||2048game.com^
 ||block-blast.io^
 ||blockblast.org^
 ||blockblastonline.com^
+||cookieclicker.eu^
+||littlealchemy2.com^
+||orteil.dashnet.org^
+||tetris.com^
+||wordle.uk^
 
 ! --- Endless Runner Games ---
+||flappybird.io^
 ||run3.io^
+||run3.live^
 ||subwayonline.io^
 ||subwaysurferspc.io^
 ||templerun.com^
 
-! --- IO Games (Multiplayer Arena) ---
+! --- IO Games & Browser Shooters (Multiplayer Arena) ---
+||1v1.lol^
 ||agar.io^
+||armedforces.io^
 ||bloxd.io^
+||buildnow.gg^
 ||diep.io^
+||ev.io^
 ||hole.io^
 ||iogames.space^
+||justfall.lol^
+||kour.io^
+||krunker.io^
+||moomoo.io^
+||paper-io.com^
 ||paper.io^
+||shellshock.io^
+||skribbl.io^
 ||slither.io^
+||smashkarts.io^
+||surviv.io^
+||venge.io^
 ||voxiom.io^
+||zombsroyale.io^
 
-! --- Racing, Rolling & Reflex Games ---
+! --- Racing, Sports & Reflex Games ---
+||basketbros.io^
+||drifthunters.io^
 ||driftboss.io^
+||eggycar.org^
 ||goingballs.com^
+||motox3m.io^
+||retrobowl.me^
 ||rollingsky.com^
+||slowroads.io^
 ||snowrider3d.com^
 
-! --- Slope 3 & Slope Game Footprints ---
+! --- Slope & Tunnel Runner Footprints ---
+||*slopegame*^
+||*slopesunblocked*^
+||color-tunnel.com^
 ||playslope.io^
+||rollyvortex.io^
 ||slope-run.io^
 ||slope.ee^
 ||slope3.com^
 ||slope3.me^
 ||slope911.com^
 ||slopeextra.com^
-||slopegame.net^
-||slopesunblocked.io^
-
-! --- Tunnel Runner Games ---
-||color-tunnel.com^
-||rollyvortex.io^
 ||tunnelrush.app^
 
 
@@ -168,8 +224,5 @@
 ||elgoog.im^
 ||in-gameadvertising.com^
 ||mrdoob.com^
-||run3.live^
-||flappybird.io^
-||ubg*.gitlab.io^
-||ubg*.pages.dev^
-||eaglercraft.com^
+||neal.fun^
+||quickdraw.withgoogle.com^
