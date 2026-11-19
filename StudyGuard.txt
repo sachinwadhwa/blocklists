@@ -54,6 +54,7 @@
 ||geodashlite.org^
 ||geometry-dash-free.com^
 ||geometry-dash-lite.io^
+||geometrydash-lite.io^
 ||geometry-dash-lite.org^
 ||geometrydash-lite.com^
 ||geometrydash-pc.com^
