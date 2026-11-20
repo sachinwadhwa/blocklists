@@ -1,7 +1,7 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-11-19
+! LAST UPDATED: 2026-11-20
 ! #################################################################
 
 
@@ -84,7 +84,7 @@
 ! --- Similar Rhythm, Dash & Reflex Variants ---
 ||101games.io^
 ||dashvibes.io^
-||fnf.kdata1.com^
+||://kdata1.com^
 ||fridaynightfunkin.gg^
 ||osu.ppy.sh^
 ||tap-tapshots.com^
@@ -165,6 +165,17 @@
 ||subwaysurferspc.io^
 ||templerun.com^
 
+! --- IO Game Portals & Directories ---
+||*iogames*^
+||io-games.io^
+||iogames.center^
+||iogames.fun^
+||iogames.onl^
+||iogames.space^
+||iogamesweb.com^
+||onlinegames.io^
+||papergames.io^
+
 ! --- IO Games & Browser Shooters (Multiplayer Arena) ---
 ||1v1.lol^
 ||agar.io^
@@ -174,7 +185,6 @@
 ||diep.io^
 ||ev.io^
 ||hole.io^
-||iogames.space^
 ||justfall.lol^
 ||kour.io^
 ||krunker.io^
@@ -225,4 +235,4 @@
 ||in-gameadvertising.com^
 ||mrdoob.com^
 ||neal.fun^
-||quickdraw.withgoogle.com^
+||://withgoogle.com^
