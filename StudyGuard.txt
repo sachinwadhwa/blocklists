@@ -1,7 +1,7 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-11-20
+! LAST UPDATED: 2026-11-24
 ! #################################################################
 
 
@@ -31,6 +31,7 @@
 ! --- GitHub, GitLab & Cloudflare Pages Game Mirrors ---
 ||3kh0.github.io^
 ||3kh0.net^
+||az-games.github.io^
 ||classroom-6x.github.io^
 ||classroom6x.gitlab.io^
 ||emulatoros.github.io^
@@ -94,10 +95,18 @@
 ! ARCADE & HUB GAME PORTALS
 ! ==========================================
 ! --- Modern HTML5 Hubs (Poki & CrazyGames Networks) ---
+||1games.io^
+||allatozgames.com^
+||azgame.io^
+||azgames.io^
 ||crazygames.*^
+||easy-games.io^
+||easyhub.games^
 ||lagged.com^
 ||poki.*^
 ||snokido.com^
+||webgames.io^
+||zapgames.io^
 
 ! --- Classic Web Gaming Networks ---
 ||addictinggames.com^
