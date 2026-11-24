@@ -29,6 +29,11 @@
 ||womginx.arph.org^
 
 ! --- GitHub, GitLab & Cloudflare Pages Game Mirrors ---
+||*classroom-6x*^
+||*classroom6x*^
+||*unblocked-games*^
+||*unblockedgames66*^
+||*unblockedgames76*^
 ||3kh0.github.io^
 ||3kh0.net^
 ||az-games.github.io^
@@ -94,18 +99,26 @@
 ! ==========================================
 ! ARCADE & HUB GAME PORTALS
 ! ==========================================
-! --- Modern HTML5 Hubs (Poki & CrazyGames Networks) ---
+! --- Modern HTML5 Hubs (Poki, CrazyGames & Search Portals) ---
 ||1games.io^
 ||allatozgames.com^
+||arkadium.com^
 ||azgame.io^
 ||azgames.io^
 ||crazygames.*^
 ||easy-games.io^
 ||easyhub.games^
+||frvr.com^
+||games.co.uk^
+||gamesnacks.com^
+||itch.io^
 ||lagged.com^
+||pogo.com^
 ||poki.*^
 ||snokido.com^
+||viverse.com^
 ||webgames.io^
+||weeklyarcade.games^
 ||zapgames.io^
 
 ! --- Classic Web Gaming Networks ---
@@ -136,35 +149,43 @@
 ||freeze-nova.com^
 ||freezenova.com^
 ||gamepix.com^
-||hoodamath.com^
 ||mathplayground.com^
 ||searchgames.io^
 ||totallyscience.co^
 ||tyrone-unblocked-games.com^
+||tyroneunblockedgames.com^
 ||ubg100.github.io^
 ||ubg365.com^
 ||ubg98.github.io^
 ||ubgames.net^
 ||unblocked.ee^
 ||unblockedgames66.com^
+||unblockedgames6x.com^
 ||unblockedgames76.com^
+||unblockedgames911.com^
 ||unblockedgamespod.com^
+||unblockedgamespremium.com^
 ||wtf-games.com^
 
 
 ! ==========================================
 ! SPECIFIC CASUAL & ENDLESS GAME GENRES
 ! ==========================================
-! --- Block & Puzzle Games ---
+! --- Block, Puzzle, Word & Trivia Games ---
 ||2048game.com^
 ||block-blast.io^
 ||blockblast.org^
 ||blockblastonline.com^
+||contexto.me^
 ||cookieclicker.eu^
+||freeguessr.com^
+||geoguessr.com^
 ||littlealchemy2.com^
 ||orteil.dashnet.org^
+||tetr.io^
 ||tetris.com^
 ||wordle.uk^
+||worldguessr.com^
 
 ! --- Endless Runner Games ---
 ||flappybird.io^
@@ -185,14 +206,17 @@
 ||onlinegames.io^
 ||papergames.io^
 
-! --- IO Games & Browser Shooters (Multiplayer Arena) ---
+! --- IO Games, Social & Browser Shooters (Multiplayer Arena) ---
 ||1v1.lol^
 ||agar.io^
 ||armedforces.io^
 ||bloxd.io^
 ||buildnow.gg^
+||codenames.game^
 ||diep.io^
 ||ev.io^
+||gartic.io^
+||garticphone.com^
 ||hole.io^
 ||justfall.lol^
 ||kour.io^
@@ -209,13 +233,16 @@
 ||voxiom.io^
 ||zombsroyale.io^
 
-! --- Racing, Sports & Reflex Games ---
+! --- Racing, Sports, Physics & Reflex Games ---
 ||basketbros.io^
-||drifthunters.io^
 ||driftboss.io^
+||drifthunters.io^
 ||eggycar.org^
 ||goingballs.com^
+||linerider.com^
 ||motox3m.io^
+||polytrack.org^
+||qwop.net^
 ||retrobowl.me^
 ||rollingsky.com^
 ||slowroads.io^
@@ -245,3 +272,10 @@
 ||mrdoob.com^
 ||neal.fun^
 ||://withgoogle.com^
+
+
+! ==========================================
+! URL PATH & BROWSER COSMETIC RULES
+! (Supported by uBlock Origin / AdGuard Extensions)
+! ==========================================
+google.*##div[data-async-type="editableCanvas"], g-card:has(canvas)
