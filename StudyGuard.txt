@@ -295,3 +295,60 @@
 ! (Supported by uBlock Origin / AdGuard Extensions)
 ! ==========================================
 google.*##div[data-async-type="editableCanvas"], g-card:has(canvas)
+
+
+! --- Additional HTML5 & Browser Game Portals ---
+||brightestgames.com^
+||friv2online.com^
+||gameflare.com^
+||gamejolt.com^
+||gamaverse.com^
+||games2rule.com^
+||gameslol.net^
+||gamesxl.com^
+||gogy.com^
+||kbhgames.com^
+||play-games.com^
+||y3.com^
+
+! --- Additional Standalone Browser Games ---
+||agarz.com^
+||arr as.io^
+||battledudes.io^
+||boardgamearena.com^
+||bonk.io^
+||brutal.io^
+||buildroyale.io^
+||candybox2.github.io^
+||chess.com^
+||conquer.io^
+||foes.io^
+||gats.io^
+||gulper.io^
+||jstris.com^
+||lordz2.io^
+||mine-craft.io^
+||nend.io^
+||oceanar.io^
+||play2048.co^
+||starblast.io^
+||stabfish.io^
+||superhex.io^
+||survev.io^
+||taming.io^
+||warbrokers.io^
+||wormszone.io^
+||wormate.io^
+||ztype.com^
+
+! --- Interactive Toys, Quizzes & Time Wasters ---
+||boredbutton.com^
+||neal.fun^
+||omfgdogs.com^
+||pointerpointer.com^
+||radio.garden^
+||quickdraw.withgoogle.com^
+||sporcle.com^
+||theuselessweb.com^
+||thisissand.com^
+||window-swap.com^
