@@ -1,7 +1,7 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-11-24
+! LAST UPDATED: 2026-11-26
 ! #################################################################
 
 
@@ -101,18 +101,26 @@
 ! ==========================================
 ! --- Modern HTML5 Hubs (Poki, CrazyGames & Search Portals) ---
 ||1games.io^
+||247games.com^
 ||allatozgames.com^
+||allfreegames.net^
 ||arkadium.com^
 ||azgame.io^
 ||azgames.io^
 ||crazygames.*^
 ||easy-games.io^
 ||easyhub.games^
+||freegames.com^
+||freegames.org^
+||freeonlinegames.com^
 ||frvr.com^
 ||games.co.uk^
+||gamesgames.com^
 ||gamesnacks.com^
+||html5games.com^
 ||itch.io^
 ||lagged.com^
+||playhop.com^
 ||pogo.com^
 ||poki.*^
 ||snokido.com^
@@ -139,7 +147,10 @@
 ||nitrome.com^
 ||notdoppler.com^
 ||ofree.io^
+||primarygames.com^
+||shockwave.com^
 ||silvergames.com^
+||thegamehomepage.com^
 ||y8.com^
 ||yoplay.io^
 
@@ -171,21 +182,26 @@
 ! ==========================================
 ! SPECIFIC CASUAL & ENDLESS GAME GENRES
 ! ==========================================
-! --- Block, Puzzle, Word & Trivia Games ---
+! --- Block, Card, Puzzle, Word & Trivia Games ---
 ||2048game.com^
 ||block-blast.io^
 ||blockblast.org^
 ||blockblastonline.com^
+||cardgames.io^
 ||contexto.me^
 ||cookieclicker.eu^
 ||freeguessr.com^
 ||geoguessr.com^
 ||littlealchemy2.com^
+||mahjong.com^
 ||orteil.dashnet.org^
+||solitaire.io^
+||solitaired.com^
 ||tetr.io^
 ||tetris.com^
 ||wordle.uk^
 ||worldguessr.com^
+||worldofsolitaire.com^
 
 ! --- Endless Runner Games ---
 ||flappybird.io^
