@@ -14,6 +14,16 @@
 ||now.gg^
 ||powdur.com^
 
+! --- Browser Retro Console Emulators ---
+||arcadespot.com^
+||emulatorgames.net^
+||emulatorgames.online^
+||playclassic.games^
+||retrogames.cc^
+||retrogames.onl^
+||snesfun.com^
+||vimm.net^
+
 ! --- Cloud Web Proxies & Bypass Frameworks ---
 ||blockaway.net^
 ||croxyproxy.com^
@@ -136,11 +146,13 @@
 ||itch.io^
 ||kbhgames.com^
 ||lagged.com^
+||nowgg.fun^
 ||play-games.com^
 ||playhop.com^
 ||pogo.com^
 ||poki.*^
 ||snokido.com^
+||twoplayergames.org^
 ||viverse.com^
 ||webgames.io^
 ||weeklyarcade.games^
@@ -197,6 +209,7 @@
 ! ==========================================
 ! --- Block, Card, Puzzle, Word & Trivia Games ---
 ||2048game.com^
+||adarkroom.doublespeakgames.com^
 ||block-blast.io^
 ||blockblast.org^
 ||blockblastonline.com^
@@ -208,20 +221,45 @@
 ||cookieclicker.eu^
 ||freeguessr.com^
 ||geoguessr.com^
+||globle-game.com^
 ||jstris.com^
 ||lichess.org^
+||littlealchemy.com^
 ||littlealchemy2.com^
 ||mahjong.com^
+||monopoly.io^
 ||orteil.dashnet.org^
 ||play2048.co^
+||pokedoku.com^
+||redactle.net^
+||sandspiel.club^
+||semantle.com^
 ||solitaire.io^
 ||solitaired.com^
+||sudoku.com^
+||suikagame.com^
 ||tetr.io^
 ||tetris.com^
+||timeguessr.com^
+||travle.earth^
+||waffle.game^
 ||wordle.uk^
 ||worldguessr.com^
+||worldle.teuteuf.fr^
 ||worldofsolitaire.com^
 ||ztype.com^
+
+! --- Idle, Incremental & Tycoon Browser Games ---
+||clickerheroes.com^
+||dodecadragons.github.io^
+||evolveidle.github.io^
+||kittensgame.com^
+||mrmine.com^
+||paperclips.com^
+||pickcrafter.com^
+||realm-grinder.com^
+||trimps.github.io^
+||universalpaperclips.com^
 
 ! --- Hidden Object, Simulation & Pet Games ---
 ||gamefools.net^
@@ -234,6 +272,8 @@
 ||starstable.com^
 
 ! --- Endless Runner Games ---
+||crossyroad.com^
+||dinosaur-game.io^
 ||flappybird.io^
 ||run3.io^
 ||run3.live^
@@ -266,7 +306,9 @@
 ||buildroyale.io^
 ||codenames.game^
 ||conquer.io^
+||curvefever.pro^
 ||deadshot.io^
+||deeeep.io^
 ||diep.io^
 ||ev.io^
 ||florr.io^
@@ -275,33 +317,48 @@
 ||garticphone.com^
 ||gats.io^
 ||gulper.io^
+||haxball.com^
 ||hole.io^
+||inspirobot.me^
+||jackbox.tv^
 ||justfall.lol^
+||kirka.io^
 ||kour.io^
 ||krunker.io^
+||littlebigsnake.com^
+||lordz.io^
 ||lordz2.io^
+||merc-zone.com^
 ||moomoo.io^
 ||mope.io^
+||narwhale.io^
 ||nend.io^
 ||oceanar.io^
 ||paper-io.com^
 ||paper.io^
+||powerline.io^
+||repuls.io^
 ||shellshock.io^
 ||skribbl.io^
 ||slither.io^
 ||smashkarts.io^
+||splix.io^
 ||stabfish.io^
 ||starblast.io^
+||starve.io^
 ||superhex.io^
 ||survev.io^
 ||surviv.io^
 ||taming.io^
 ||territorial.io^
+||typeracer.com^
 ||venge.io^
 ||voxiom.io^
 ||warbrokers.io^
+||wings.io^
 ||wormate.io^
 ||wormszone.io^
+||zombs.io^
 ||zombsroyale.io^
 
 ! --- Racing, Sports, Physics & Reflex Games ---
@@ -309,15 +366,22 @@
 ||driftboss.io^
 ||drifthunters.io^
 ||eggycar.org^
+||fancade.com^
+||getaway-shootout.com^
 ||goingballs.com^
+||happywheels.com^
 ||linerider.com^
 ||motox3m.io^
 ||polytrack.org^
 ||qwop.net^
 ||retrobowl.me^
 ||rollingsky.com^
+||rooftopsnipers.com^
 ||slowroads.io^
 ||snowrider3d.com^
+||soccerbros.gg^
+||stickmanhook.com^
+||tanukisunset.com^
 
 ! --- Slope & Tunnel Runner Footprints ---
 ||*slopegame*^
