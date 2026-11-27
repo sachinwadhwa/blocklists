@@ -1,7 +1,7 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
 ! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
-! LAST UPDATED: 2026-11-26
+! LAST UPDATED: 2026-11-27
 ! #################################################################
 
 
@@ -15,15 +15,19 @@
 ||powdur.com^
 
 ! --- Cloud Web Proxies & Bypass Frameworks ---
+||blockaway.net^
 ||croxyproxy.com^
 ||croxyproxy.rocks^
 ||holyubofficial.net^
 ||hyperbeam.com^
+||incognito-proxy.com^
 ||interstellar-proxy.pages.dev^
 ||nebula.my^
 ||neverinstall.dev^
+||plainproxies.com^
 ||proxyium.com^
 ||rammerhead.org^
+||stealthy.co^
 ||surfly.com^
 ||ultraviolet-node.com^
 ||womginx.arph.org^
@@ -60,6 +64,7 @@
 ||eaglercraft.com^
 ||eaglercraft.ru^
 ||eaglercraftx.pages.dev^
+||mine-craft.io^
 ||minecraft.net^
 ||minecraftservices.com^
 ||mojang.com^
@@ -90,8 +95,8 @@
 ! --- Similar Rhythm, Dash & Reflex Variants ---
 ||101games.io^
 ||dashvibes.io^
-||://kdata1.com^
 ||fridaynightfunkin.gg^
+||kdata1.com^
 ||osu.ppy.sh^
 ||tap-tapshots.com^
 
@@ -107,19 +112,31 @@
 ||arkadium.com^
 ||azgame.io^
 ||azgames.io^
+||brightestgames.com^
 ||crazygames.*^
 ||easy-games.io^
 ||easyhub.games^
 ||freegames.com^
 ||freegames.org^
 ||freeonlinegames.com^
+||friv2online.com^
 ||frvr.com^
+||gamaverse.com^
+||gameflare.com^
+||gamejolt.com^
+||games-4-free.co.uk^
 ||games.co.uk^
+||games2rule.com^
 ||gamesgames.com^
+||gameslol.net^
 ||gamesnacks.com^
+||gamesxl.com^
+||gogy.com^
 ||html5games.com^
 ||itch.io^
+||kbhgames.com^
 ||lagged.com^
+||play-games.com^
 ||playhop.com^
 ||pogo.com^
 ||poki.*^
@@ -127,6 +144,7 @@
 ||viverse.com^
 ||webgames.io^
 ||weeklyarcade.games^
+||y3.com^
 ||zapgames.io^
 
 ! --- Classic Web Gaming Networks ---
@@ -138,6 +156,7 @@
 ||coolmathgames.com^
 ||friv.com^
 ||gamezhero.com^
+||girlsgogames.com^
 ||hoodamath.com^
 ||kizi.com^
 ||kongregate.com^
@@ -170,12 +189,6 @@
 ||ubg98.github.io^
 ||ubgames.net^
 ||unblocked.ee^
-||unblockedgames66.com^
-||unblockedgames6x.com^
-||unblockedgames76.com^
-||unblockedgames911.com^
-||unblockedgamespod.com^
-||unblockedgamespremium.com^
 ||wtf-games.com^
 
 
@@ -187,14 +200,21 @@
 ||block-blast.io^
 ||blockblast.org^
 ||blockblastonline.com^
+||boardgamearena.com^
+||candybox2.github.io^
 ||cardgames.io^
+||chess.com^
 ||contexto.me^
 ||cookieclicker.eu^
 ||freeguessr.com^
 ||geoguessr.com^
+||jstris.com^
+||lichess.org^
 ||littlealchemy2.com^
 ||mahjong.com^
+||nytimes.com/games^
 ||orteil.dashnet.org^
+||play2048.co^
 ||solitaire.io^
 ||solitaired.com^
 ||tetr.io^
@@ -202,6 +222,17 @@
 ||wordle.uk^
 ||worldguessr.com^
 ||worldofsolitaire.com^
+||ztype.com^
+
+! --- Hidden Object, Simulation & Pet Games ---
+||gamefools.net^
+||gameziko.com^
+||horseisle.com^
+||horsereality.com^
+||howrse.com^
+||junesjourney.com^
+||playhiddenobjectgames.com^
+||starstable.com^
 
 ! --- Endless Runner Games ---
 ||flappybird.io^
@@ -225,28 +256,53 @@
 ! --- IO Games, Social & Browser Shooters (Multiplayer Arena) ---
 ||1v1.lol^
 ||agar.io^
+||agarz.com^
 ||armedforces.io^
+||arras.io^
+||battledudes.io^
 ||bloxd.io^
+||bonk.io^
+||brutal.io^
 ||buildnow.gg^
+||buildroyale.io^
 ||codenames.game^
+||conquer.io^
+||deadshot.io^
 ||diep.io^
 ||ev.io^
+||florr.io^
+||foes.io^
 ||gartic.io^
 ||garticphone.com^
+||gats.io^
+||gulper.io^
 ||hole.io^
 ||justfall.lol^
 ||kour.io^
 ||krunker.io^
+||lordz2.io^
 ||moomoo.io^
+||mope.io^
+||nend.io^
+||oceanar.io^
 ||paper-io.com^
 ||paper.io^
 ||shellshock.io^
 ||skribbl.io^
 ||slither.io^
 ||smashkarts.io^
+||stabfish.io^
+||starblast.io^
+||superhex.io^
+||survev.io^
 ||surviv.io^
+||taming.io^
+||territorial.io^
 ||venge.io^
 ||voxiom.io^
+||warbrokers.io^
+||wormate.io^
+||wormszone.io^
 ||zombsroyale.io^
 
 ! --- Racing, Sports, Physics & Reflex Games ---
@@ -282,12 +338,20 @@
 ! ==========================================
 ! INTERACTIVE TOYS, GOOGLE EGGS & AD NETWORKS
 ! ==========================================
+||boredbutton.com^
 ||doodles.google^
 ||elgoog.im^
 ||in-gameadvertising.com^
 ||mrdoob.com^
 ||neal.fun^
-||://withgoogle.com^
+||omfgdogs.com^
+||pointerpointer.com^
+||radio.garden^
+||sporcle.com^
+||theuselessweb.com^
+||thisissand.com^
+||window-swap.com^
+||withgoogle.com^
 
 
 ! ==========================================
@@ -295,92 +359,3 @@
 ! (Supported by uBlock Origin / AdGuard Extensions)
 ! ==========================================
 google.*##div[data-async-type="editableCanvas"], g-card:has(canvas)
-
-
-! --- Additional HTML5 & Browser Game Portals ---
-||brightestgames.com^
-||friv2online.com^
-||gameflare.com^
-||gamejolt.com^
-||gamaverse.com^
-||games2rule.com^
-||gameslol.net^
-||gamesxl.com^
-||gogy.com^
-||kbhgames.com^
-||play-games.com^
-||y3.com^
-
-! --- Additional Standalone Browser Games ---
-||agarz.com^
-||arr as.io^
-||battledudes.io^
-||boardgamearena.com^
-||bonk.io^
-||brutal.io^
-||buildroyale.io^
-||candybox2.github.io^
-||chess.com^
-||conquer.io^
-||foes.io^
-||gats.io^
-||gulper.io^
-||jstris.com^
-||lordz2.io^
-||mine-craft.io^
-||nend.io^
-||oceanar.io^
-||play2048.co^
-||starblast.io^
-||stabfish.io^
-||superhex.io^
-||survev.io^
-||taming.io^
-||warbrokers.io^
-||wormszone.io^
-||wormate.io^
-||ztype.com^
-
-! --- Interactive Toys, Quizzes & Time Wasters ---
-||boredbutton.com^
-||neal.fun^
-||omfgdogs.com^
-||pointerpointer.com^
-||radio.garden^
-||quickdraw.withgoogle.com^
-||sporcle.com^
-||theuselessweb.com^
-||thisissand.com^
-||window-swap.com^
-
-
-
-! ==========================================
-! June's Journey & Hidden Object Games
-! ==========================================
-||junesjourney.com^
-||gamefools.net^
-||playhiddenobjectgames.com^
-||gameziko.com^
-
-! ==========================================
-! Star Stable & Horse Games
-! ==========================================
-||starstable.com^
-||howrse.com^
-||horsereality.com^
-||horseisle.com^
-
-! ==========================================
-! Free Online Game Websites
-! ==========================================
-||games-4-free.co.uk^
-||poki.com^
-||crazygames.com^
-||y8.com^
-||friv.com^
-||coolmathgames.com^
-||kizi.com^
-||girlsgogames.com^
-||silvergames.com^
-||playhop.com^
