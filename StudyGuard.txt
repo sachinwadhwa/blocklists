@@ -352,3 +352,35 @@ google.*##div[data-async-type="editableCanvas"], g-card:has(canvas)
 ||theuselessweb.com^
 ||thisissand.com^
 ||window-swap.com^
+
+
+
+! ==========================================
+! June's Journey & Hidden Object Games
+! ==========================================
+||junesjourney.com^
+||gamefools.net^
+||playhiddenobjectgames.com^
+||gameziko.com^
+
+! ==========================================
+! Star Stable & Horse Games
+! ==========================================
+||starstable.com^
+||howrse.com^
+||horsereality.com^
+||horseisle.com^
+
+! ==========================================
+! Free Online Game Websites
+! ==========================================
+||games-4-free.co.uk^
+||poki.com^
+||crazygames.com^
+||y8.com^
+||friv.com^
+||coolmathgames.com^
+||kizi.com^
+||girlsgogames.com^
+||silvergames.com^
+||playhop.com^
