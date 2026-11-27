@@ -1,6 +1,6 @@
 ! #################################################################
 ! TITLE: Ultimate StudyGuard Blocklist (Games & Distractions)
-! DESCRIPTION: Curated list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
+! DESCRIPTION: AdGuard-compatible list to restrict gaming portals, block sandbox ecosystems, and prevent proxy bypasses.
 ! LAST UPDATED: 2026-11-27
 ! #################################################################
 
@@ -212,7 +212,6 @@
 ||lichess.org^
 ||littlealchemy2.com^
 ||mahjong.com^
-||nytimes.com/games^
 ||orteil.dashnet.org^
 ||play2048.co^
 ||solitaire.io^
@@ -352,10 +351,3 @@
 ||thisissand.com^
 ||window-swap.com^
 ||withgoogle.com^
-
-
-! ==========================================
-! URL PATH & BROWSER COSMETIC RULES
-! (Supported by uBlock Origin / AdGuard Extensions)
-! ==========================================
-google.*##div[data-async-type="editableCanvas"], g-card:has(canvas)
